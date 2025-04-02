@@ -1,3 +1,7 @@
 {
-    "stream_url": "https://m3u8x2.cloudycx.net/mediax2/hls/files/720p.m3u8"
+  "player": "HLS",
+  "source": "https://myhlsx1.embedxt.site/mediax16/hls/files/720p.m3u8",
+  "type": "application/x-mpegURL",
+  "autoplay": true,
+  "controls": true
 }
